@@ -1,4 +1,5 @@
 #Zadanie 1
+print("Zadanie 1")
 a = int(input("Podaj swój wiek: "))
 if a < 4:
     print("Wstęp bezpłatny")
