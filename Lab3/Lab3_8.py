@@ -1,3 +1,5 @@
 a = int(input("podaj liczbę gwiazdek: "))
 for i in range(a):
-    print("*", end=" ")
+    for l in range(a):
+        print("*", end=" ")
+    print()
